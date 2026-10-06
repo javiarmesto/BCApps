@@ -1,3 +1,7 @@
+> **Fork context:** this repository is a fork of [microsoft/BCApps](https://github.com/microsoft/BCApps). The documentation below retains the original project's authorship. Use the parent repository for its published releases and support guidance; this audit does not establish a separate maintained distribution or promise synchronization.
+>
+> [Compare this fork with its parent](https://github.com/microsoft/BCApps/compare/main...javiarmesto:BCApps:main). The comparison shows the current differences; fork-specific behavior must be assessed from those changes. Static documentation review: **6 October 2026**; no build, installation or service invocation performed.
+
 # Welcome to BCApps: Microsoft Dynamics 365 Business Central Application
 
 ## The Repository
